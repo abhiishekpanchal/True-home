@@ -6,11 +6,11 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "truehome-mern-project.firebaseapp.com",
-  projectId: "truehome-mern-project",
-  storageBucket: "truehome-mern-project.appspot.com",
-  messagingSenderId: "524476088755",
-  appId: "1:524476088755:web:f9e70dda979e8964c54bc6"
+  authDomain: "truehome-mernproject.firebaseapp.com",
+  projectId: "truehome-mernproject",
+  storageBucket: "truehome-mernproject.appspot.com",
+  messagingSenderId: "922936053331",
+  appId: "1:922936053331:web:cf37b144ab0be4f3c080a6"
 };
 
 // Initialize Firebase
